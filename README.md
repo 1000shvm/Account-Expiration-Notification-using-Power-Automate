@@ -41,3 +41,7 @@ If you encounter issues while setting up, refer to Microsoft Docs:
 ---
 
 ✨ This repo serves as a **reference guide** for IT admins to proactively manage contractor account expirations.
+
+
+## 📜 License
+This project is licensed under the **MIT License**.
