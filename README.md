@@ -30,8 +30,8 @@ The provided Word document includes:
 
 ## 📂 Repository Structure
 .
-├── Account_Expiration_Notification.docx
-└── README.md
+├── Account_Expiration_Notification-2[1].docx
+|── README.md
 
 
 ## 📧 Support
